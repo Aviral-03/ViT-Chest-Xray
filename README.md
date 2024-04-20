@@ -10,7 +10,7 @@ Early and accurate detection of diseases is crucial for improving patient outcom
 
 We use the NIH Chest X-ray dataset, which comprises 112,120 X-ray images with disease labels from 30,805 unique patients. The dataset is publicly available and includes labels relevant to cancer diagnosis.
 
-1. Navigate to `data.ipynb` and download the data. Ensure that it is downloaded into `input` folder.
+1. Navigate to `data_download.ipynb` and download the data. Ensure that it is downloaded into `input` folder.
 2. Delete downloaded zip if needed
 
 To run it on smaller dataset. Navigate to:
