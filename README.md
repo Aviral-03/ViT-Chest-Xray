@@ -1,6 +1,6 @@
-# Chest Cancerous Cells Multi-Classification with CNN, ResNet, and Vision Transformers
+# Chest X-ray Multi-Classification with CNN, ResNet, and Vision Transformers
 
-This repository contains the code and resources for a comparative study of Convolutional Neural Networks (CNNs), Residual Networks (ResNet), and Vision Transformers for multi-classification of chest cancerous cells in X-ray images.
+This repository contains the code and resources for a comparative study of Convolutional Neural Networks (CNNs), Residual Networks (ResNet), and Vision Transformers for multi-classification in X-ray images.
 
 ## Overview
 
