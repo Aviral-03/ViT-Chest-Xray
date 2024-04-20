@@ -12,6 +12,7 @@ We use the NIH Chest X-ray dataset, which comprises 112,120 X-ray images with di
 
 1. Navigate to `data_download.ipynb` and download the data. Ensure that it is downloaded into `input` folder.
 2. Delete downloaded zip if needed
+3. Change the path in models. `image_dir` `root_dir` and `image_path`, otherwise where applicable.
 
 To run it on smaller dataset. Navigate to:
 
@@ -19,7 +20,8 @@ To run it on smaller dataset. Navigate to:
 https://www.kaggle.com/datasets/nih-chest-xrays/sample
 ```
 1. Download the files
-2. Change the path in models. `image_dir` `root_dir` and `image_path`.
+3. Change the path in models. `image_dir` `root_dir` and `image_path`, otherwise where applicable.
+
 
 ## Installation
 
