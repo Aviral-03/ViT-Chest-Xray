@@ -26,16 +26,6 @@ git clone https://github.com/your-username/CSC413-Final-Project.git
 pip install -r requirements.txt
 ```
 
-3. Download the dataset from [NIH Chest X-ray dataset](https://cloud.google.com/healthcare-api/docs/resources/public-datasets/nih-chest) and place it in the `data/` directory.
-
-## Usage
-
-Navigate to the directory containing the code and run the main script:
-
-```
-python main.py
-```
-
 ## Project Members
 
 - Kaushik Murali
