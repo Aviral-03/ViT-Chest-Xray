@@ -2,6 +2,11 @@
 
 This repository contains the code and resources for a comparative study of Convolutional Neural Networks (CNNs), Residual Networks (ResNet), and Vision Transformers for multi-classification in X-ray images.
 
+## Published Paper
+
+You can also refer to our final paper for detailed results and discussion: [Paper](https://arxiv.org/abs/2406.00237)
+
+
 ## Overview
 
 Early and accurate detection of diseases is crucial for improving patient outcomes. This project focuses on utilizing deep learning techniques to classify chest X-ray images into different classes of cancerous cells. We compare the performance of CNNs, ResNet, and Vision Transformers to identify the most effective architecture for this task.
